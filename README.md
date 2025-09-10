@@ -15,21 +15,21 @@ Keep submissions **clear, factual, and respectful**.
 ## ✅ Accepted Formats
 
 Q&A Style  
----
+
 Q: Who are the Rohingya?  
 A: The Rohingya are a Muslim ethnic minority from Rakhine State, Myanmar, with a distinct culture and language.  
 
 ---
 
 Timeline Style  
----
+
 1948: Burma gains independence; Rohingya recognition issues begin.
 2017: Mass displacement of Rohingya due to military operations.
 
 ---
 
 Encyclopedia Style  
----
+
 Rohingya Language:
 -Belongs to the Indo-Aryan family
 -Influenced by Arabic, Urdu, and Bengali
