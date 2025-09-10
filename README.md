@@ -14,7 +14,7 @@ Keep submissions **clear, factual, and respectful**.
 
 ## ✅ Accepted Formats
 
-# ***Q&A Style***  
+#### ***Q&A Style***  
 
 Q: Who are the Rohingya?  
 A: The Rohingya are a Muslim ethnic minority from Rakhine State, Myanmar, with a distinct culture and language.  
